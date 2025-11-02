@@ -19,7 +19,7 @@ A comprehensive Java-based test automation framework for GUI functional testing 
 
 ## 🎯 Overview
 
-This framework is designed for automated testing of web applications, specifically targeting the Contact List application. It implements the Page Object Model design pattern and supports multiple data sources for data-driven testing.
+This framework is designed for automated testing of web applications, specifically targeting the Contact List application hosted at https://thinking-tester-contact-list.herokuapp.com/. It implements the Page Object Model design pattern and supports multiple data sources for data-driven testing.
 
 ## ✨ Features
 
