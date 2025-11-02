@@ -1,0 +1,2 @@
+firstName;lastName;dateOfBirth;email;phone;street1;street2;city;stateProvince;postalCode;country;expectedError;expectedURL;expectedTitle;expectedHeading
+Gregor;Igorovic;wrongemail.sk;Contact validation failed: email: Email is invalid;https://thinking-tester-contact-list.herokuapp.com/addContact;Add Contact;Add Contact

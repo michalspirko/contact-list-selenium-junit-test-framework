@@ -1,0 +1,7 @@
+pages\ContactDetailsPage.class
+pages\BasePage.class
+pages\LoginPage.class
+pages\MyContactsPage.class
+pages\SignUpPage.class
+pages\AddContactPage.class
+pages\EditContactPage.class

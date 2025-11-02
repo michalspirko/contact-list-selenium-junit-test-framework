@@ -1,0 +1,2 @@
+email;expectError;expectedURL;expectedTitle;expectedHeading
+wrongEmail;Incorrect username or password;https://thinking-tester-contact-list.herokuapp.com/;Contact List App;Contact List App

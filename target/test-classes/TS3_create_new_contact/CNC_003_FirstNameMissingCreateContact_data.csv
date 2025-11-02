@@ -1,0 +1,2 @@
+firstName;lastName;expectedError;expectedURL;expectedTitle;expectedHeading
+;Strieborny;Contact validation failed: firstName: Path `firstName` is required.;https://thinking-tester-contact-list.herokuapp.com/addContact;Add Contact;Add Contact

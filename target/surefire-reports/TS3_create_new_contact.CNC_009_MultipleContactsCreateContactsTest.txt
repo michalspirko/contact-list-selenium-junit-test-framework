@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: TS3_create_new_contact.CNC_009_MultipleContactsCreateContactsTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 44.01 s -- in TS3_create_new_contact.CNC_009_MultipleContactsCreateContactsTest

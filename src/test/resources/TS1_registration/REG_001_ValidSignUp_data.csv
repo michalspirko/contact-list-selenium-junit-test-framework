@@ -1,0 +1,2 @@
+firstName;lastName;email;password;expectedURL;expectedTitle;expectedHeading
+Thomas;Shelby;thomas@limited.ru;1234567;https://thinking-tester-contact-list.herokuapp.com/contactList;My Contacts;Contact List

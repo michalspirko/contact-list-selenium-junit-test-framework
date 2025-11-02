@@ -1,0 +1,47 @@
+1. add error count to custom html reports
+
+MAVEN COMMANDS:
+mvn clean - clears the target directory
+mvn test - run all tests, generate XML reports
+mvn site - run all tests, generate HTML report
+mvn site -DskipTests=true - generate HTML report on XML already present
+
+class: mvn test -Dtest=REG_001_ValidSignUpTest
+method: mvn test -Dtest=REG_001_ValidSignUp#validSignUpTest
+package: mvn test -DtestPackage=TS1_registration // doesn't work?
+mvn test -Dtest=TS3_create_new_contact.*Test
+
+# w/ Maven args:
+mvn test -Dbrowser=chrome -Dheadless=true  mvn test -Dtest=TS1_registration.*Test -Dbrowser=chrome -Dheadless=false
+-Djunit.jupiter.execution.parallel.enabled=true -Djunit.jupiter.execution.parallel.mode.default=concurrent
+
+Maven args for parallel execution.
+-Djunit.jupiter.execution.parallel.enabled=true
+-Djunit.jupiter.execution.parallel.mode.default=concurrent
+
+Parallel Execution Surefire plugin config:
+<configuration>
+          <properties>
+            <configurationParameters>
+              junit.jupiter.execution.parallel.enabled=true
+              junit.jupiter.execution.parallel.mode.default=concurrent
+            </configurationParameters>
+          </properties>
+</configuration>
+
+DB INFO:
+[postgres]
+database = test_data
+user = postgres
+password = 140161
+host = localhost
+#port = 5432
+db.table=contact_data_2023_08_26t12_05_30
+
+[mysql]
+database = test_data
+user = mysql
+password = 140161
+host = localhost
+port = 3306
+db.table=contact_data_2023_08_26T12_05_3

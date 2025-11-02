@@ -1,0 +1,2 @@
+firstName;lastName;email;password;expectedError;expectedURL;expectedTitle;expectedHeading
+Thomas;Shelby;tester@tester.uk;1234567;Email address is already in use;https://thinking-tester-contact-list.herokuapp.com/addUser;Add User;Add User
