@@ -2,21 +2,6 @@
 
 A comprehensive Java-based test automation framework for GUI functional testing with data-driven testing capabilities, built using Selenium WebDriver, JUnit 5, and Maven.
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [Project Structure](#project-structure)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Running Tests](#running-tests)
-- [Test Suites](#test-suites)
-- [Reporting](#reporting)
-- [Data Sources](#data-sources)
-- [Page Object Model](#page-object-model)
-
 ## 🎯 Overview
 
 This framework is designed for automated testing of web applications, specifically targeting the Contact List application hosted at https://thinking-tester-contact-list.herokuapp.com/. It implements the Page Object Model design pattern and supports multiple data sources for data-driven testing.
