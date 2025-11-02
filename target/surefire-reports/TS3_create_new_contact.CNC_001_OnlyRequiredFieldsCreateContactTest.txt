@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: TS3_create_new_contact.CNC_001_OnlyRequiredFieldsCreateContactTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.752 s -- in TS3_create_new_contact.CNC_001_OnlyRequiredFieldsCreateContactTest

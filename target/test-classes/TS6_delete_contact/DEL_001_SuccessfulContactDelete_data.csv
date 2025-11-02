@@ -1,2 +1,0 @@
-firstName;lastName;dateOfBirth;email;phone;street1;street2;city;stateProvince;postalCode;country;expectedURL;expectedTitle;expectedHeading
-Iveta;Malachovska;1212-01-01;iveta@centrum.sk;0984746536;Fialova;Zelena;Presporok;Petrzka;934836;Slovensko;https://thinking-tester-contact-list.herokuapp.com/contactList;My Contacts;Contact List

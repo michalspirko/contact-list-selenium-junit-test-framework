@@ -1,2 +1,0 @@
-firstName;lastName;email;expectedError;expectedURL;expectedTitle;expectedHeading
-Thomas123!@#;Shelby;tommy@company.ee;1234567;First Name cannot contain special characters.;https://thinking-tester-contact-list.herokuapp.com/addUser;Add User;Add User
